@@ -8,6 +8,8 @@ JUnit Report
 Introduction
 ------------
 
+[Original repo](https://github.com/TOPdesk/dart-junitreport)
+
 This application can be used to convert the results of dart tests to JUnit xml reports. These XML reports can then be used by other tools like Jenkins CI.
 
 By running
