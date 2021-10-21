@@ -5,7 +5,7 @@
 import 'package:intl/intl.dart';
 import 'package:xml/xml.dart';
 import 'package:testreport/testreport.dart';
-import 'package:junit_report/junitreport.dart';
+import 'package:junit_report/junitreporter.dart';
 import 'package:junit_report/src/impl/xml.dart';
 
 class XmlReport implements JUnitReport {

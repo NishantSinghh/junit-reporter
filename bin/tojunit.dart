@@ -7,7 +7,7 @@ import 'dart:convert';
 import 'dart:io';
 import 'package:args/args.dart';
 import 'package:intl/intl.dart';
-import 'package:junit_report/junitreport.dart';
+import 'package:junit_report/junitreporter.dart';
 import 'package:testreport/testreport.dart';
 
 Future<Null> main(List<String> args) async {
