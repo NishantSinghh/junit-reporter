@@ -13,7 +13,7 @@ This application can be used to convert the results of dart tests to JUnit xml r
 By running
 
 ```Shell
-pub run test simple_test.dart --reporter json > example.jsonl
+dart test simple_test.dart --reporter json > example.jsonl
 pub global run junitreport:tojunit --input example.jsonl --output TEST-report.xml
 ```
 
