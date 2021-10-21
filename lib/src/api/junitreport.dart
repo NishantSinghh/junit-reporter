@@ -4,7 +4,6 @@
 
 import 'package:testreport/testreport.dart';
 import 'package:junit_report/src/impl/report.dart';
-
 /// Transformer to convert a [Report] to an xml String.
 abstract class JUnitReport {
   /// Creates a JUnitReport with the given [base] and [package].
